@@ -1,3 +1,8 @@
 {
-  "webview_url": "https://bunianews.org"
+  "url": "https://aprohdiv.org",
+  "title": "Birka Buyaya",
+  "jsEnabled": true,
+  "themeColor": "#4CAF50",
+  "showProgress": true,
+  "showError": false
 }
